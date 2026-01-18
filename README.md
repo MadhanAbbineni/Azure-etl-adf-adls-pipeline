@@ -25,3 +25,26 @@ datalake/
              └── dt=2026-01-17/
                  └── orders.csv
 
+
+**What I Learned**
+
+Navigating the Azure Portal from scratch
+Creating and managing Azure resources
+Building ADF linked services and datasets
+Designing and running a copy pipeline
+Publishing and validating data movement
+Understanding the purpose of Bronze/Silver/Gold layers
+Navigating the Azure Portal from scratch
+Creating and managing Azure resources
+Building ADF linked services and datasets
+Designing and running a copy pipeline
+Publishing and validating data movement
+Understanding the purpose of Bronze/Silver/Gold layers
+
+**Next Steps**
+
+Transform Bronze data to Silver using Azure Databricks (PySpark)
+Build Gold aggregates for analytics
+Query curated data using Azure Synapse Analytics
+Extend the pipeline with orchestration and scheduling
+
