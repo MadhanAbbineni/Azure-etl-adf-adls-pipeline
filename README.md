@@ -27,7 +27,6 @@ datalake/
 
 
 **What I Learned**
-
 Navigating the Azure Portal from scratch
 Creating and managing Azure resources
 Building ADF linked services and datasets
@@ -42,9 +41,12 @@ Publishing and validating data movement
 Understanding the purpose of Bronze/Silver/Gold layers
 
 **Next Steps**
-
 Transform Bronze data to Silver using Azure Databricks (PySpark)
 Build Gold aggregates for analytics
 Query curated data using Azure Synapse Analytics
 Extend the pipeline with orchestration and scheduling
+
+**Lets Connect**
+If you’re also learning Azure Data Engineering, feel free to explore..
+
 
